@@ -1,13 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Azie88&theme=blue-green)](https://github.com/Azie88) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azie88&layout=compact&theme=blue-green)](https://github.com/Azie88)
+<h2 align="center">
+I'm a Front End Web developer 💻, Data Analyst 🔭, and Visual Designer 🎨!
+</h2>
 
 ### 🤝 Connect with me:
-
 <a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://medium.com/@obandoandrew8"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 
 ### 🔭 I'm currently working on
 
@@ -17,6 +19,8 @@
 - My next blog
 - React library
 
+
+
 ### 🌱 I'm currently learning
 
 - FastAPI
@@ -24,7 +28,9 @@
 - Deep learning
 - PHP
 
-## 💼 Technical Skills
+
+
+### 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,6 +50,7 @@
 
 
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Azie88&theme=blue-green)](https://github.com/Azie88) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azie88&layout=compact&theme=blue-green)](https://github.com/Azie88)
 
 <!--
 **Azie88/Azie88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

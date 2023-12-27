@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&center=true&vCenter=true&color=green&width=600&lines=Hi+there+👋+I'm+Andrew!;I+like+telling+stories+with+data..." alt="Typing SVG | Andrew Obando" align="middle" width="100%" />
 
 <h2 align="center">
-I'm a Web developer 💻, Data Scientist 🔭, and Visual Designer 🎨!
+I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 </h2><br>
 
 
@@ -15,10 +15,10 @@ I'm a Web developer 💻, Data Scientist 🔭, and Visual Designer 🎨!
 ### 💬 Always looking forward to connect and collaborate. Email me: aobando@clubunbrick.com <br><br>
 
 
-## 🔭 I'm currently working on <br>
+## 👷‍♂️ I'm currently working on <br>
 
 ### - GPT-3 powered SEO Blog Post Generator
-### - My website (clubunbrick.com)
+### - My website: clubunbrick.com
 ### - ETA Prediction ML model for ride-hailing app (React native, FastAPI, Docker, Gradio, Scikit-learn)
 ### - My next blog <br><br>
 
@@ -63,7 +63,7 @@ I'm a Web developer 💻, Data Scientist 🔭, and Visual Designer 🎨!
   
 | Now Playing — Spotify 🎧 |
 |--------|
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lbhd5lgvqsq2bm2sobkndhavim&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) | 
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lbhd5lgvqsq2bm2sobkndhavim&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) | 
 
   
 </div>

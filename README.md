@@ -4,37 +4,35 @@
 
 <h2 align="center">
 I'm a Web developer 💻, Data Scientist 🔭, and Visual Designer 🎨!
-</h2>
+</h2><br>
 
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Andrew Obando | LinkedIn" width="21px"/></a>
 <a href="https://medium.com/@obandoandrew8"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Andrew Obando | Medium" width="21px"/></a>
-</br>
+<br><br>
 
-### - 💬 Always looking forward to connect and collaborate. Email me: aobando@clubunbrick.com
+### - 💬 Always looking forward to connect and collaborate. Email me: aobando@clubunbrick.com <br>
 
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working on <br>
 
 ### - GPT-3 powered SEO Blog Post Generator
 ### - My website (clubunbrick.com)
 ### - ETA Prediction ML model for ride-hailing app (React native, FastAPI, Docker, Gradio, Scikit-learn)
-### - My next blog
+### - My next blog <br>
 
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently learning <br>
 
 ### - FastAPI
 ### - Docker
 ### - Deep learning
 ### - PHP
-### - React native
+### - React native <br>
 
 
-
-
-## 💼 Technical Skills
+## 💼 Technical Skills<br>
 
 
 ### **Languages** <br>

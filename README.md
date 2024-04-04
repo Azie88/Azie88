@@ -6,15 +6,16 @@ Hi there, I'm <a href="https://medium.com/@obandoandrew8" target="_blank" rel="n
 I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 </h2><br>
 
-## 🤝 Connect with me:
+## 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrew Obando | LinkedIn"/></a>
 <a href="https://medium.com/@obandoandrew8">
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </a>
-<p>My Website:<a href="https://www.clubunbrick.com">clubunbrick.com</a></p>
-<p><a href="mailto:aobando@clubunbrick.com">aobando@clubunbrick.com</a></p>
+<p>My Website: <a href="https://www.clubunbrick.com">clubunbrick.com</a></p>
+<p>Email Me: <a href="mailto:aobando@clubunbrick.com">aobando@clubunbrick.com</a></p>
 <br>
+
 ## 📝 Latest Blog Posts<br>
 - [Deploying a ML Model with Gradio and Hugging face — Python Machine Learning](https://medium.com/@obandoandrew8/deploying-a-ml-model-with-gradio-and-hugging-face-python-machine-learning-83f076c58a0c)
 - [Building a Machine Learning API with Python, FastAPI and Docker](https://medium.com/@obandoandrew8/building-a-machine-learning-api-with-python-fastapi-and-docker-7281df112565)

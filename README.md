@@ -18,7 +18,6 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 ## 👷‍♂️ I'm currently working on <br>
 
 ### - GPT-3 powered SEO Blog Post Generator
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Azie88&theme=blue-green)](https://github.com/Azie88) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azie88&layout=compact&theme=blue-green)](https://github.com/Azie88)
 ### - My website: [Clubunbrick.com](https://clubunbrick.com)
 ### - ETA Prediction ML model for ride-hailing app (React native, FastAPI, Docker, Gradio, Scikit-learn)
 ### - My next blog <br><br>

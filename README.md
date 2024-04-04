@@ -1,9 +1,7 @@
-## <p align="right"><img src="https://komarev.com/ghpvc/?username=Azie88&style=flat-square&color=1e9747"></p>
-
+<h2 align="right"><img src="https://komarev.com/ghpvc/?username=Azie88&style=flat-square&color=1e9747"></h2>
 <h2 align="center">
 Hi there, I'm <a href="https://medium.com/@obandoandrew8" target="_blank" rel="noreferrer">Andrew</a> 👋
 </h2>
-
 <h2 align="center">
 I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 </h2><br>
@@ -16,8 +14,7 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 </a>
 <p>My Website:<a href="https://www.clubunbrick.com">clubunbrick.com</a></p>
 <p><a href="mailto:aobando@clubunbrick.com">aobando@clubunbrick.com</a></p>
-<br><br>
-
+<br>
 ## 📝 Latest Blog Posts<br>
 - [Deploying a ML Model with Gradio and Hugging face — Python Machine Learning](https://medium.com/@obandoandrew8/deploying-a-ml-model-with-gradio-and-hugging-face-python-machine-learning-83f076c58a0c)
 - [Building a Machine Learning API with Python, FastAPI and Docker](https://medium.com/@obandoandrew8/building-a-machine-learning-api-with-python-fastapi-and-docker-7281df112565)

@@ -9,32 +9,33 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 </h2><br>
 
 ## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Andrew Obando | LinkedIn" width="21px"/></a>
-<a href="https://medium.com/@obandoandrew8"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Andrew Obando | Medium" width="21px"/></a>
-<br>
 
-### 💬 Always looking forward to connect and collaborate. Email me: aobando@clubunbrick.com <br><br>
+<a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrew Obando | LinkedIn"/></a>
+<a href="https://medium.com/@obandoandrew8">
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+</a>
+<p>My Website:<a href="https://www.clubunbrick.com">clubunbrick.com</a></p>
+<p><a href="mailto:aobando@clubunbrick.com">aobando@clubunbrick.com</a></p>
+<br><br>
 
+## 📝 Latest Blog Posts<br>
+- [Deploying a ML Model with Gradio and Hugging face — Python Machine Learning](https://medium.com/@obandoandrew8/deploying-a-ml-model-with-gradio-and-hugging-face-python-machine-learning-83f076c58a0c)
+- [Building a Machine Learning API with Python, FastAPI and Docker](https://medium.com/@obandoandrew8/building-a-machine-learning-api-with-python-fastapi-and-docker-7281df112565)
 
 ## 👷‍♂️ I'm currently working on <br>
 
-### - GPT-3 powered SEO Blog Post Generator
-### - My website: [Clubunbrick.com](https://clubunbrick.com)
-### - ETA Prediction ML model for ride-hailing app (React native, FastAPI, Docker, Gradio, Scikit-learn)
-### - My next blog <br><br>
-
+- GPT-3 powered SEO Blog Post Generator
+- My next blog <br><br>
 
 ## 🌱 I'm currently learning <br>
 
-### - FastAPI
-### - Docker
-### - Deep learning
-### - PHP
-### - React native <br><br>
+- FastAPI
+- Deep learning
+- PHP
+- React native <br><br>
 
 
 ## 💼 Technical Skills <br>
-
 
 ### **Languages** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

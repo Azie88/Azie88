@@ -1,11 +1,12 @@
 ## <p align="right"><img src="https://komarev.com/ghpvc/?username=Azie88&style=flat-square&color=1e9747"></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&center=true&vCenter=true&color=green&width=600&lines=Hi+there+👋+I'm+Andrew!;I+like+telling+stories+with+data..." alt="Typing SVG | Andrew Obando" align="middle" width="100%" />
+<h2 align="center">
+Hi there, I'm <a href="https://medium.com/@obandoandrew8" target="_blank" rel="noreferrer">Andrew</a> 👋
+</h2>
 
 <h2 align="center">
 I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 </h2><br>
-
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Andrew Obando | LinkedIn" width="21px"/></a>

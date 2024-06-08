@@ -13,7 +13,7 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </a>
 <p>My Website: <a href="https://www.clubunbrick.com">clubunbrick.com</a></p>
-<p>Email Me: <a href="mailto:aobando@clubunbrick.com">aobando@clubunbrick.com</a></p>
+<p>Email Me: <a href="mailto:obandoandrew8@gmail.com">obandoandrew8@gmail.com</a></p>
 <br>
 
 ## 📝 Latest Blog Posts<br>

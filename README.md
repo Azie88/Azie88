@@ -63,7 +63,6 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
   
 | Now Playing — Spotify 🎧 |
 |--------|
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lbhd5lgvqsq2bm2sobkndhavim&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) | 
-
+| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lbhd5lgvqsq2bm2sobkndhavim&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) | 
   
 </div>

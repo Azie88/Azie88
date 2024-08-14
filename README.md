@@ -23,15 +23,16 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 
 ## 👷‍♂️ I'm currently working on <br>
 
-- GPT-3 powered SEO Blog Post Generator
+- GPT powered SEO Blog Post Generator
 - My next blog <br><br>
 
 ## 🌱 I'm currently learning <br>
 
-- FastAPI
+- Creating RAG Applications
 - Deep learning
 - PHP
-- React native <br><br>
+- React native
+- GSAP Javascript Library <br><br>
 
 
 ## 💼 Technical Skills <br>
@@ -57,13 +58,24 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Azie88&theme=blue-green)](https://github.com/Azie88) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azie88&layout=compact&theme=blue-green)](https://github.com/Azie88)
-
-
 <div align="center">
-  
-| Now Playing — Spotify 🎧 |
-|--------|
-| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lbhd5lgvqsq2bm2sobkndhavim&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) | 
-  
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Azie88">
+          <img src="https://github-readme-stats.vercel.app/api?username=Azie88&theme=blue-green" alt="My github stats" height="200">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Azie88">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azie88&layout=compact&theme=blue-green" alt="Top Langs" height="200">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lbhd5lgvqsq2bm2sobkndhavim&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Now Playing — Spotify" height="200">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>

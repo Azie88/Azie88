@@ -67,11 +67,6 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
         </a>
       </td>
       <td>
-         <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lbhd5lgvqsq2bm2sobkndhavim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Now Playing — Spotify" height="200">
-        </a>
-      </td>
-      <td>
        <a href="https://github.com/Azie88">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azie88&layout=compact&theme=blue-green" alt="Top Langs" height="200">
         </a>
@@ -79,3 +74,5 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
     </tr>
   </table>
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lbhd5lgvqsq2bm2sobkndhavim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

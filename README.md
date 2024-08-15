@@ -68,7 +68,7 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
       </td>
       <td>
          <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lbhd5lgvqsq2bm2sobkndhavim&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Now Playing — Spotify" height="200">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lbhd5lgvqsq2bm2sobkndhavim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Now Playing — Spotify" height="200">
         </a>
       </td>
       <td>

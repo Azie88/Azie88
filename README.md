@@ -17,10 +17,10 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 <br>
 
 ## 📝 Latest Blog Posts<br>
+- [Never Write SQL Ever Again! 🤖Vanna.ai SQL AI Assistant Tutorial](https://medium.com/@obandoandrew8/never-write-sql-ever-again-vanna-ai-sql-ai-assistant-tutorial-94036e870903)
 - [Bell Curve Meme - Avoiding the middle with statistics.](https://medium.com/@obandoandrew8/bell-curve-meme-avoiding-the-middle-with-statistics-6301a8f5cfa1)
 - [Creating a Relational Database from Excel files — MySQL Workbench](https://medium.com/@obandoandrew8/creating-a-relational-database-from-excel-files-mysql-workbench-3fe56164bf34)
 - [Deploying a ML Model with Gradio and Hugging face — Python Machine Learning](https://medium.com/@obandoandrew8/deploying-a-ml-model-with-gradio-and-hugging-face-python-machine-learning-83f076c58a0c)
-- [Building a Machine Learning API with Python, FastAPI and Docker](https://medium.com/@obandoandrew8/building-a-machine-learning-api-with-python-fastapi-and-docker-7281df112565)
 
 ## 👷‍♂️ I'm currently working on <br>
 
@@ -30,7 +30,7 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 ## 🌱 I'm currently learning <br>
 
 - Creating RAG Applications
-- Deep learning
+- NLP
 - PHP
 - React native
 - GSAP Javascript Library <br><br>

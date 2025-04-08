@@ -25,6 +25,7 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 ## 👷‍♂️ I'm currently working on <br>
 
 - GPT powered SEO Blog Post Generator
+- AI agents for automated social media posting
 - My next blog <br><br>
 
 ## 🌱 I'm currently learning <br>

@@ -31,9 +31,9 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 ## 🌱 I'm currently learning <br>
 
 - Creating RAG Applications
-- NLP
+- Deep Learning
 - PHP
-- React native
+- React native for app development
 - GSAP Javascript Library <br><br>
 
 

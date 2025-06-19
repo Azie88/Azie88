@@ -13,9 +13,11 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </a>
 <p>Email: <a href="mailto:obandoandrew8@gmail.com">obandoandrew8@gmail.com</a></p>
+<p>Website: <a href="https://clubunbrick.co">clubunbrick.co</p>
 <br>
 
 ## 📝 Latest Blog Posts<br>
+- [Coachella Tweet Sentiment Analysis (Deep Learning Tutorial)](https://medium.com/gitconnected/coachella-tweet-sentiment-analysis-deep-learning-tutorial-75a351280609)
 - [Never Write SQL Ever Again! 🤖Vanna.ai SQL AI Assistant Tutorial](https://medium.com/@obandoandrew8/never-write-sql-ever-again-vanna-ai-sql-ai-assistant-tutorial-94036e870903)
 - [Bell Curve Meme - Avoiding the middle with statistics.](https://medium.com/@obandoandrew8/bell-curve-meme-avoiding-the-middle-with-statistics-6301a8f5cfa1)
 - [Creating a Relational Database from Excel files — MySQL Workbench](https://medium.com/@obandoandrew8/creating-a-relational-database-from-excel-files-mysql-workbench-3fe56164bf34)

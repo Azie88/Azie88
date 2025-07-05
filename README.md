@@ -3,7 +3,7 @@
 Hi there, I'm <a href="https://medium.com/@obandoandrew8" target="_blank" rel="noreferrer">Andrew</a> 👋
 </h2>
 <h2 align="center">
-I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
+I'm a Data Scientist 📊, Web developer 💻, Visual Designer 🎨!
 </h2><br>
 
 ## 🤝 Connect with me
@@ -17,11 +17,9 @@ I'm a Web developer 💻, Data Scientist 📊, and Visual Designer 🎨!
 <br>
 
 ## 📝 Latest Blog Posts<br>
+- [Gin Rummy Theorem Vs. Bayesian Thinking — Importance of Bayes’ Theorem in ML and AI](https://medium.com/gitconnected/gin-rummy-theorem-vs-bayesian-thinking-importance-of-bayes-theorem-in-ml-and-ai-37d581575b24)
 - [Coachella Tweet Sentiment Analysis (Deep Learning Tutorial)](https://medium.com/gitconnected/coachella-tweet-sentiment-analysis-deep-learning-tutorial-75a351280609)
 - [Never Write SQL Ever Again! 🤖Vanna.ai SQL AI Assistant Tutorial](https://medium.com/@obandoandrew8/never-write-sql-ever-again-vanna-ai-sql-ai-assistant-tutorial-94036e870903)
-- [Bell Curve Meme - Avoiding the middle with statistics.](https://medium.com/@obandoandrew8/bell-curve-meme-avoiding-the-middle-with-statistics-6301a8f5cfa1)
-- [Creating a Relational Database from Excel files — MySQL Workbench](https://medium.com/@obandoandrew8/creating-a-relational-database-from-excel-files-mysql-workbench-3fe56164bf34)
-- [Deploying a ML Model with Gradio and Hugging face — Python Machine Learning](https://medium.com/@obandoandrew8/deploying-a-ml-model-with-gradio-and-hugging-face-python-machine-learning-83f076c58a0c)
 
 ## 👷‍♂️ I'm currently working on <br>
 

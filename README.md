@@ -3,7 +3,7 @@
 Hi there, I'm <a href="https://medium.com/@obandoandrew8" target="_blank" rel="noreferrer">Andrew</a> 👋
 </h2>
 <h2 align="center">
-I'm a Data Scientist 📊, Web developer 💻, Visual Designer 🎨!
+I'm a Data Scientist 📊 & Web developer 💻
 </h2><br>
 
 ## 🤝 Connect with me
@@ -17,6 +17,7 @@ I'm a Data Scientist 📊, Web developer 💻, Visual Designer 🎨!
 <br>
 
 ## 📝 Latest Blog Posts<br>
+- [How to Master Prompt Engineering Using LLMs (From Beginner to Advanced)](https://medium.com/gitconnected/how-to-master-prompt-engineering-using-llms-from-beginner-to-advanced-5702e9ef38c8)
 - [Gin Rummy Theorem Vs. Bayesian Thinking — Importance of Bayes’ Theorem in ML and AI](https://medium.com/gitconnected/gin-rummy-theorem-vs-bayesian-thinking-importance-of-bayes-theorem-in-ml-and-ai-37d581575b24)
 - [Coachella Tweet Sentiment Analysis (Deep Learning Tutorial)](https://medium.com/gitconnected/coachella-tweet-sentiment-analysis-deep-learning-tutorial-75a351280609)
 - [Never Write SQL Ever Again! 🤖Vanna.ai SQL AI Assistant Tutorial](https://medium.com/@obandoandrew8/never-write-sql-ever-again-vanna-ai-sql-ai-assistant-tutorial-94036e870903)
@@ -24,7 +25,7 @@ I'm a Data Scientist 📊, Web developer 💻, Visual Designer 🎨!
 ## 👷‍♂️ I'm currently working on <br>
 
 - GPT powered SEO Blog Post Generator
-- AI agents for automated social media posting
+- AI agents for content creation
 - My next blog <br><br>
 
 ## 🌱 I'm currently learning <br>
@@ -32,7 +33,7 @@ I'm a Data Scientist 📊, Web developer 💻, Visual Designer 🎨!
 - Creating RAG Applications
 - Deep Learning
 - PHP
-- React native for app development
+- React native for mobile app development
 - GSAP Javascript Library <br><br>
 
 
@@ -56,7 +57,6 @@ I'm a Data Scientist 📊, Web developer 💻, Visual Designer 🎨!
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
 
 
 <div align="center">

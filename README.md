@@ -64,24 +64,6 @@ I'm a Data Scientist 📊 & Web developer 💻
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=photoshop&logoColor=fff)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9900?logo=illustrator&logoColor=fff)
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Azie88">
-          <img src="https://raw.githubusercontent.com/Azie88/Azie88/main/github-metrics.svg" alt="My github stats" height="300">
-        </a>
-      </td>
-      <td>
-       <a href="https://github.com/Azie88">
-          <img src="https://raw.githubusercontent.com/Azie88/Azie88/main/github-languages.svg" alt="Top Langs" height="300">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <table>
   <tr>
     <td align="center">

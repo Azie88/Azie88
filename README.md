@@ -70,12 +70,12 @@ I'm a Data Scientist 📊 & Web developer 💻
     <tr>
       <td>
         <a href="https://github.com/Azie88">
-          <img src="https://metrics.lecoq.io/Azie88?base=header,activity,community,repositories,metadata&base.indepth=true" alt="My github stats" height="300">
+          <img src="https://raw.githubusercontent.com/Azie88/Azie88/main/github-metrics.svg" alt="My github stats" height="300">
         </a>
       </td>
       <td>
        <a href="https://github.com/Azie88">
-          <img src="https://metrics.lecoq.io/Azie88?base=header&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage" alt="Top Langs" height="300">
+          <img src="https://raw.githubusercontent.com/Azie88/Azie88/main/github-languages.svg" alt="Top Langs" height="300">
         </a>
       </td>
     </tr>
